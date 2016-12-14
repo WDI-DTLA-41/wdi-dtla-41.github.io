@@ -3,173 +3,198 @@
     "first": "Rony",
     "last":  "Armas"
   },
-  "email": "rony.lunaset@gmail.com"
+  "email": "rony.lunaset@gmail.com",
+  "status": "active"
 },
 {
   "name": {
     "first": "Qian",
     "last":  "Chen"
   },
-  "email": "oda_san@hotmail.com"
+  "email": "oda_san@hotmail.com",
+  "status": "active"
 },
 {
   "name": {
     "first": "Adam",
     "last":  "Cho"
   },
-  "email": "acc88r@gmail.com"
+  "email": "acc88r@gmail.com",
+  "status": "withdrawal"
 },
 {
   "name": {
     "first": "Tim",
     "last": "Clark"
   },
-  "email": "oeomusic@gmail.com"
+  "email": "oeomusic@gmail.com",
+  "status": "active"
 },
 {
   "name": {
     "first": "Kora",
     "last":  "Colasuonno"
   },
-  "email": "kora.colasuonno@gmail.com"
+  "email": "kora.colasuonno@gmail.com",
+  "status": "active"
 },
 {
   "name": {
     "first": "Daniel",
     "last": "Dicke"
   },
-  "email": "danieljdicke@gmail.com"
+  "email": "danieljdicke@gmail.com",
+  "status": "withdrawal"
 },
 {
   "name": {
     "first": "James",
     "last": "Fowler"
   },
-  "email": "jamesfowler1000@gmail.com"
+  "email": "jamesfowler1000@gmail.com",
+  "status": "active"
 },
 {
   "name": {
     "first": "Ramon",
     "last": "H Arradaza Jr"
   },
-  "email": "sugal323@gmail.com"
+  "email": "sugal323@gmail.com",
+  "status": "withdrawal"
 },
 {
   "name": {
     "first": "Seungyeob",
     "last": "Lee"
   },
-  "email": "theovermanx@gmail.com"
+  "email": "theovermanx@gmail.com",
+  "status": "withdrawal"
 },
 {
   "name": {
     "first": "Michelle",
     "last":  "Lee"
   },
-  "email": "lee.michellejung@gmail.com"
+  "email": "lee.michellejung@gmail.com",
+  "status": "active"
 },
 {
   "name": {
     "first": "Lacey",
     "last": "Madison"
   },
-  "email": "laceyannmadison@gmail.com"
+  "email": "laceyannmadison@gmail.com",
+  "status": "active"
 },
 {
   "name": {
     "first": "Andrew",
     "last":  "Maidah"
   },
-  "email": "a.maidah@gmail.com"
+  "email": "a.maidah@gmail.com",
+  "status": "active"
 },
 {
   "name": {
     "first": "Marcel",
     "last":  "Marquez"
   },
-  "email": "marcelmarquez@aol.com"
+  "email": "marcelmarquez@aol.com",
+  "status": "withdrawal"
 },
 {
   "name": {
     "first": "Jake",
     "last":  "Miller"
   },
-  "email": "jake-miller@hotmail.com"
+  "email": "jake-miller@hotmail.com",
+  "status": "active"
 },
 {
   "name": {
     "first": "Brad",
     "last":  "Morgan"
   },
-  "email": "bkmorgan3@gmail.com"
+  "email": "bkmorgan3@gmail.com",
+  "status": "active"
 },
 {
   "name": {
     "first": "Abi",
     "last": "Munoz"
   },
-  "email": "abimunozr@gmail.com"
+  "email": "abimunozr@gmail.com",
+  "status": "active"
 },
 {
   "name": {
     "first": "An",
     "last":  "Nguyen"
   },
-  "email": "anguyen021@gmail.com"
+  "email": "anguyen021@gmail.com",
+  "status": "active"
 },
 {
   "name": {
     "first": "Kristopher",
     "last":  "Parrillo"
   },
-  "email": "kkparrillo@gmail.com"
+  "email": "kkparrillo@gmail.com",
+  "status": "active"
 },
 {
   "name": {
     "first": "Barrett",
     "last": "Quan"
   },
-  "email": "21barrett@gmail.com"
+  "email": "21barrett@gmail.com",
+  "status": "active"
 },
 {
   "name": {
     "first": "Margie",
     "last":  "Reynolds"
   },
-  "email": "margie.a.reynolds@gmail.com"
+  "email": "margie.a.reynolds@gmail.com",
+  "status": "active"
 },
 {
   "name": {
     "first": "Ritwik",
     "last":  "Ruia"
   },
-  "email": "ritwikruia@gmail.com"
+  "email": "ritwikruia@gmail.com",
+  "status": "active"
 },
 {
   "name": {
     "first": "Justin",
     "last":  "Samuels"
   },
-  "email": "blizm87@gmail.com"
+  "email": "blizm87@gmail.com",
+  "status": "active"
 },
 {
   "name": {
     "first": "Mimi",
     "last":  "Schirm"
   },
-  "email": "mimischirm@gmail.com"
+  "email": "mimischirm@gmail.com",
+  "status": "active"
 },
 {
   "name": {
     "first": "Baokhoa",
     "last": "Vu"
   },
-  "email": "baokhoadinhvu@gmail.com"
+  "email": "baokhoadinhvu@gmail.com",
+  "status": "active"
 },
 {
   "name": {
     "first": "Dakotah",
     "last": "Walker"
   },
-  "email": "walker.dakotah@gmail.com"
+  "email": "walker.dakotah@gmail.com",
+  "status": "active"
 }]
